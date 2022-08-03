@@ -16,11 +16,7 @@ application that will help the driver or vehicle owner to locate the nearest mec
 book them in case a vehicle break down. This application will display a list of available
 mechanics who can assist the vehicle owner.
 
-SDG - The Roadside Vehicle Breakdown Assistance is Under Sustainable Development
-Goal 11, Sustainable Cities and Communities, attention is being paid to the problem of
-vehicle owners maintaining their vehicles in good condition to prevent breakdowns. In
-only one click, we wish to deliver mechanic information. Finding a mechanic and
-scheduling them in advance will benefit the vehicle owner in the event of a breakdown.
+
 
 Target Audience - 
 The target audience of this system are the users which is the vehicle owner who
