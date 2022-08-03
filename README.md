@@ -22,14 +22,14 @@ vehicle owners maintaining their vehicles in good condition to prevent breakdown
 only one click, we wish to deliver mechanic information. Finding a mechanic and
 scheduling them in advance will benefit the vehicle owner in the event of a breakdown.
 
-Target Audience
+Target Audience - 
 The target audience of this system are the users which is the vehicle owner who
 needs assistance in times of vehicle break down. The Roadside Vehicle Breakdown
 Assistance is user-friendly, reliable and flexible it will reduced manual work. The system
 allows the user to search and it will display the list of available mechanic that can assist
 them. It will help the vehicle owner to easily find mechanics near their location.
 
-Technology Stack and Platforms
+Technology Stack and Platforms - 
 The Roadside Vehicle Breakdown Assistance is available in Android phones. In
 order to provide information regarding road vehicle assistance, we will create the
 application based on the needs and demands of the users.
