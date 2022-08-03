@@ -34,7 +34,7 @@ The Roadside Vehicle Breakdown Assistance is available in Android phones. In
 order to provide information regarding road vehicle assistance, we will create the
 application based on the needs and demands of the users.
 
-IV. Features
+Features
 Register - Mechanics can register with all their information.
 Login - Registered user can Login with their credentials.
 Logout - The users can logout their account if they are done using the
